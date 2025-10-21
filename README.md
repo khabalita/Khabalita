@@ -15,7 +15,7 @@ SOBRE MI
   
   ⚙️ --> Utilizo una arquitectura Entity Component System (ECS) y un patrón Data Origin Programming (DOP) que me permite controlar al detalle los recursos y optimizar al máximo             los juegos.
 
-  🧠 --> Soy una persona proactiva, curiosa, que esta en constante aprendizaje tanto en lo teória como en la práctica.
+  🧠 --> Soy una persona proactiva, curiosa, que esta en constante aprendizaje tanto en lo teorÍa como en la práctica.
 
 
 
