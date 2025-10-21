@@ -1,7 +1,9 @@
 HOLA, ME LLAMO NICOLAS LAZARO 👋
 
 Soy un desarrollador de software que actualmente se especializa de forma autodidacta en el diseño de videojuegos, implementando patrones de diseño, principios SOLID y arquitecturas modernas especializadas en la optimizacion de recursos.
-Desde chico me gustó entender como funcionan las computadoras por dentro, 
+Desde chico me gustó entender como funcionan las computadoras por dentro
+
+
 
 SOBRE MI
 
@@ -15,9 +17,13 @@ SOBRE MI
 
   🧠 --> Soy una persona proactiva, curiosa, que esta en constante aprendizaje tanto en lo teória como en la práctica.
 
+
+
   LANGUAGES
   
   [![MY SKILLS](https://skillicons.dev/icons?i=c,cs,cpp,java)](https://skillicons.dev)
+
+
 
   SKILLS
 
