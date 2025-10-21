@@ -4,6 +4,7 @@ Soy un desarrollador de software que actualmente se especializa de forma autodid
 Desde chico me gustó entender como funcionan las computadoras por dentro, 
 
 SOBRE MI
+
   🎓 --> Me recibí como Técnico Analista Progamador en el desarrollo de aplicaciones en el Instituto Superior de Formación Técnica nro. 194 de Miramar.
 
   🤖 --> Me apasiona el desarrollo de videojuegos 2D, el diseño, la arquitectura, las mecanicas y la jugabilidad. He utilizado el motor de Godot para desarrollar mis propios juegos
