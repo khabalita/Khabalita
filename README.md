@@ -15,6 +15,6 @@ SOBRE MI
   🧠 --> Soy una persona proactiva, curiosa, que esta en constante aprendizaje tanto en lo teória como en la práctica.
 
   
-  [[LANGUAGES](https://skillicons.dev/icons?i=c,cs,cpp,java)](https://skillicons.dev)
+  [![MY SKILLS](https://skillicons.dev/icons?i=c,cs,cpp,java)](https://skillicons.dev)
 
   [![MY SKILLS](https://skillicons.dev/icons?i=godot,vscode)](https://skillicons.dev)
