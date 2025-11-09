@@ -33,4 +33,4 @@ SOBRE MI
 
   SKILLS
 
-  [![MY SKILLS](https://skillicons.dev/icons?i=apple, git, cmake, godot, vscode)](https://skillicons.dev)
+  [![MY SKILLS](https://skillicons.dev/icons?i=apple,git,cmake,godot,vscode)](https://skillicons.dev)
