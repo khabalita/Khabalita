@@ -33,4 +33,4 @@ SOBRE MI
 
   SKILLS
 
-  [![MY SKILLS](https://skillicons.dev/icons?i=godot,vscode)](https://skillicons.dev)
+  [![MY SKILLS](https://skillicons.dev/icons?i=godot,vscode,apple)](https://skillicons.dev)
